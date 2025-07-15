@@ -1,4 +1,4 @@
-<h1 align="left">Transforming ideas into elegant, high-performance web experiences.</h1>
+<h1 align="center">Transforming ideas into elegant and high-performance web experiences.</h1>
 
 ###
 

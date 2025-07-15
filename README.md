@@ -1,4 +1,4 @@
-<h1 align="center">Transforming ideas into elegant and high-performance web experiences.</h1>
+<h1 align="center">Transforming ideas into elegant and high-performance<br>web experiences</h1>
 
 ###
 
@@ -11,7 +11,6 @@
 ###
 
 <br clear="both">
-<br>
 <br>
 
 <div align="center">
